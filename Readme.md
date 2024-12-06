@@ -24,7 +24,7 @@ Morbid but works ^
 2. Calculate the matrix of Minors (M)
 3. Apply the cofactor matrix (C):
 
-![equation]https://latex.codecogs.com/svg.image?\begin{pmatrix}&plus;&-&&plus;\-&&plus;&-\&plus;&-&&plus;\end{pmatrix}
+![equation](https://latex.codecogs.com/svg.image?\begin{pmatrix}&plus;&-&&plus;\-&&plus;&-\&plus;&-&&plus;\end{pmatrix})
 
 4. Transpose the matrix (along the leading diagonal) (T)
 5. Multiply every item in the matrix by 1/determinate (D)
