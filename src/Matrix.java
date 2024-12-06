@@ -10,12 +10,12 @@ Morbid but works ^
 
 1. Calculate the determinate (D)
 2. Calculate the matrix of Minors (M)
-3. Apply the cofactor matrix:
+3. Apply the cofactor matrix (C):
     |+ - +|
     |- + -|
     |+ - +|
-4. Transpose the matrix (along the leading diagonal)
-5. Multiply every item in the matrix by 1/determinate
+4. Transpose the matrix (along the leading diagonal) (T)
+5. Multiply every item in the matrix by 1/determinate (D)
 */
 
 public class Matrix {
